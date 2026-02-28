@@ -24,3 +24,6 @@ nav a {
 .btn:hover {
   background-color: #0056b3;
 }
+p:hover {
+  color: #00f000;
+}
